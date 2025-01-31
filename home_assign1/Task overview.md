@@ -1,6 +1,4 @@
-# Home Assignment 1
-
-Overview of the notebook
+# Overview of the Task (the actual notebook is present within this same folder)
 
 ### Task 1
 Just getting familiar with regex in python
