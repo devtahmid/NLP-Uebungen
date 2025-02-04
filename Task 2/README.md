@@ -1,11 +1,5 @@
 ### Markdown version of the jupyter notebook
 
-```python
-from typing import List, Union, Dict, Set, Tuple, Sequence
-from numpy.typing import NDArray
-import sys
-```
-
 ### Task 2.1: WordNet word similarity
 
 In this task, we want to implement the similarity between two words in WordNet (https://www.nltk.org/api/nltk.corpus.reader.wordnet.html) using the NLTK package. The word similarity between two words is given by
