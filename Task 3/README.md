@@ -1,11 +1,5 @@
 ### Markdown version of the jupyter notebook
 
-```python
-from typing import List, Union, Dict, Set, Tuple, Sequence
-from numpy.typing import NDArray
-import nltk
-```
-
 ### Task 1: Markov chains
 
 In this task we want to create a language model by using the independence assumption af Markov. We therefore assume that the probability of a word is only dependent on a fixed number of preceding words. E.g. by restricting the number of preceding words to $n$ we can approximate the probability of a word $w_{i}$ following a sequence of words $w_1, ..., w_{i-1}$ by:
