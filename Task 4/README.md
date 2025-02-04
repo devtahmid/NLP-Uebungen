@@ -1,16 +1,5 @@
 ### Markdown version of the jupyter notebook
 
-
-
-```python
-from typing import List, Union, Dict, Set, Tuple
-from numpy.typing import NDArray
-from collections import defaultdict, Counter
-import numpy as np
-import re
-from math import log
-```
-
 ### Task 1: ML Basics - Naive Bayes Classification 
 In this task, we want to build a Naive Bayes classifier with add-1 smoothing for text classification (pseudocode given below), e.g., to assign a category to a document. Use the class-skeleton provided below for your implementation.
 
